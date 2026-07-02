@@ -5,10 +5,28 @@
 # 👋 Hi, I'm Venkata Satya Sai Chalasani
 
 ### 🛡️ Security Analyst | SOC Engineer | AI Security Researcher
+Results-driven Security Analyst with **5+ years** of experience in **SOC Operations**, **Threat Hunting**, **Incident Response**, **Detection Engineering**, **Cloud Security**, and **AI Security**.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00FFB3&center=true&vCenter=true&width=850&lines=Threat+Hunter;SOC+Analyst;Detection+Engineer;Cloud+Security+Enthusiast;AI+Security+Researcher;Microsoft+Defender+XDR;Azure+Security;CompTIA+Security%2B+Certified" />
 
-<img src="https://komarev.com/ghpvc/?username=Chalasani-Venkata-Satya-Sai&label=Profile+Views&color=0e75b6&style=flat"/>
+</div>
+
+<p>
+<a href="https://www.linkedin.com/in/venkata-satya-sai-chalasani">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:chalasanivenkatasatyasai@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Chalasani-Venkata-Satya-Sai">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Chalasani-Venkata-Satya-Sai&style=for-the-badge"/>
+
+</p>
 
 </div>
 
@@ -40,15 +58,6 @@
 - Red Teaming
 - Cyber Security Architect
 - Quantum Cyber Security
-
----
-
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-satya-sai-chalasani)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Chalasani-Venkata-Satya-Sai)
-
 
 ---
 
