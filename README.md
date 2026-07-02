@@ -22,8 +22,6 @@
 
 🎯 CompTIA Security+ (SY0-701) Certified
 
-🌱 Currently Learning
-
 - Microsoft Sentinel
 - Azure Security (AZ-500)
 - Microsoft Defender XDR
@@ -33,6 +31,14 @@
 - Purple Teaming
 - Threat Intelligence
 
+🌱 Currently Learning
+- AI Security
+- Agentic AI
+- Swarm Ai
+- Red Teaming
+- Cyber Security Architect
+- Quantum Cyber Security
+
 ---
 
 # 🌐 Connect With Me
@@ -41,75 +47,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Chalasani-Venkata-Satya-Sai)
 
----
-
-# 🛡️ Cybersecurity Stack
-
-### SIEM
-
-![QRadar](https://img.shields.io/badge/IBM_QRadar-1261FE?style=for-the-badge&logo=ibm)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elasticsearch)
-
----
-
-### Endpoint Security
-
-![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-5E5E5E?style=for-the-badge&logo=microsoft)
-![Microsoft Defender XDR](https://img.shields.io/badge/Defender_XDR-0078D4?style=for-the-badge&logo=microsoft)
-
----
-
-### Threat Intelligence
-
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge)
-![MISP](https://img.shields.io/badge/MISP-FF6600?style=for-the-badge)
-![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-black?style=for-the-badge)
-![Cisco Talos](https://img.shields.io/badge/Cisco_Talos-049FD9?style=for-the-badge)
-
----
-
-### Security Tools
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47F24?style=for-the-badge)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge)
-
----
-
-### Cloud Security
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
-
----
-
-### Operating Systems
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge)
-
----
-
-### Programming & Automation
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
-
----
-
-### DevSecOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 
 ---
 
@@ -174,6 +111,7 @@
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge)
 ![Maltego](https://img.shields.io/badge/Maltego-1E88E5?style=for-the-badge)
 ![Cuckoo Sandbox](https://img.shields.io/badge/Cuckoo%20Sandbox-000000?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47F24?style=for-the-badge)
 
 ---
 
@@ -231,9 +169,13 @@
 
 📘 Microsoft SC-900
 
+📘 Microsoft SC-200
+
 📘 Microsoft AZ-900
 
-📘 Microsoft AZ-500 *(In Progress)*
+📘 Microsoft AZ-500 
+
+📘 Microsoft SC-100 *(In Progress)*
 
 ---
 
