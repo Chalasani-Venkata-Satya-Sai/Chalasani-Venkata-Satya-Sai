@@ -1,3 +1,5 @@
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/170ecbea-f891-4fcc-b0c0-9593559fd980" />
+
 <div align="center">
 
 # 👋 Hi, I'm Venkata Satya Sai Chalasani
