@@ -1,6 +1,6 @@
-<img width="800" height="600" alt="From Klickpin com- Explore Dreamy DIY gift ideas that are packed with ideas people keep saving and clicking on lately for ideas worth saving right" src="https://github.com/user-attachments/assets/ce173e2c-7196-4218-bd99-b1fe66caa706" />
-
-
+<img width="1000" height="600" alt="From Klickpin com- Explore Dreamy DIY gift ideas that are packed with ideas people keep saving and clicking on lately for ideas worth saving right" src="https://github.com/user-attachments/assets/ce173e2c-7196-4218-bd99-b1fe66caa706" />
+<div align="center">
+<img width="2000" height="900" alt="image" src="https://github.com/user-attachments/assets/2077083c-10c4-4312-b51d-ab8c00f543bd" />
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/170ecbea-f891-4fcc-b0c0-9593559fd980" />
 
 <div align="center">
@@ -250,5 +250,8 @@ Results-driven Security Analyst with **5+ years** of experience in **SOC Operati
 <div align="center">
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
+
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/e5f211b0-cfd3-4c0e-8c21-49e927b80481" />
+
 
 </div>
