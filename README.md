@@ -1,3 +1,6 @@
+<img width="800" height="600" alt="From Klickpin com- Explore Dreamy DIY gift ideas that are packed with ideas people keep saving and clicking on lately for ideas worth saving right" src="https://github.com/user-attachments/assets/ce173e2c-7196-4218-bd99-b1fe66caa706" />
+
+
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/170ecbea-f891-4fcc-b0c0-9593559fd980" />
 
 <div align="center">
@@ -7,9 +10,19 @@
 ### 🛡️ Security Analyst | SOC Engineer | AI Security Researcher
 Results-driven Security Analyst with **5+ years** of experience in **SOC Operations**, **Threat Hunting**, **Incident Response**, **Detection Engineering**, **Cloud Security**, and **AI Security**.
 
+<div align="center">
+
+<img width="800" height="600" alt="From Klickpin com- See these 8 Cozy old money outfit ideas that can help you create a more curated classy and Pinterest-worthy result for women wh" src="https://github.com/user-attachments/assets/71844762-d43d-4630-8a30-845f5fefc8cc" />
+
+<img src="assets/key.gif" width="250" alt="Animated Key"/>
+
+
+</div>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00FFB3&center=true&vCenter=true&width=850&lines=Threat+Hunter;SOC+Analyst;Detection+Engineer;Cloud+Security;AI+Security+Researcher;Microsoft+Defender+XDR;Azure+Security;CompTIA+Security%2B+Certified" />
 
 </div>
+<img width="2000" height="600" alt="From Klickpin com- Budget-Friendly Kids Craft Ideas for This Year-pin-id-900719994208798078" src="https://github.com/user-attachments/assets/89591fbb-ddd3-4c3b-92d9-010bf9dad7df" />
 
 <p>
 <a href="https://www.linkedin.com/in/venkata-satya-sai-chalasani">
